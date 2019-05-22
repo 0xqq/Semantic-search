@@ -1,0 +1,15 @@
+.settings
+.classpath
+.project
+/target
+/data
+/docs/developDocs
+/bak
+bak
+
+
+/.idea/workspace.xml
+/.idea/libraries
+/out
+answer.iml
+/bin/
